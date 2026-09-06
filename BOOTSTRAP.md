@@ -88,3 +88,10 @@ CONSTRUCTOR_LOCAL_PATH=C:\Franco_Metodos_AI\work-claude-k
 
 - Se limita al transporte mecánico definido por `REGLAS-ORQUESTADOR.md` en el SHA constitutivo.
 - No construye, no audita, no crea bootstraps por cuenta de los actores y no escribe en los repositorios de los actores.
+
+## Anclaje metodológico de esta intervención
+
+```text
+PERIMETRO_ULTIMA_MODIFICACION=CONSTITUCION
+PROXIMA_ACCION=Constituir al primer CONSTRUCTOR mediante sobre turn_id=1, next_actor=CONSTRUCTOR y next_instance=fresh.
+```
